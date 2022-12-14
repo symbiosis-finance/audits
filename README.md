@@ -13,6 +13,10 @@
 
 ### [Zokyo](./Symbiosis%20Protocol/metarouter-v3/Symbiosis%20Protocol%20MRv3%20Audit%20-%20Zokyo.pdf)
 
+## Pool 
+
+### [Zokyo](./Symbiosis%20Protocol/pool/Symbiosis%20Pool%20Audit%20-%20Zokyo.pdf)
+
 
 # Symbiosis Protocol Terra
 
