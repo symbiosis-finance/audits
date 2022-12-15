@@ -29,3 +29,7 @@
 
 ### [HashCloak](./Symbiosis%20Protocol%20Terra/core/Symbiosis%20Protocol%20Audit%20-%20HashCloak.pdf)
 ### [Zokyo](./Symbiosis%20Protocol%20Terra/core/Symbiosis%20Protocol%20Audit%20-%20Zokyo.pdf)
+
+# Symbiosis Frontend App
+
+### [Decurity](./Symbiosis%20Frontend%20App/Symbiosis%20Frontend%20App%20-%20Decurity.pdf)
