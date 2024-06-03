@@ -27,8 +27,6 @@
 
 ### [Zokyo](./Symbiosis%20Protocol%20Near/core/Symbiosis%20Protocol%20Audit%20-%20Zokyo.pdf)
 
-# Symbiosis Protocol Terra
-
 ## Core
 
 ### [HashCloak](./Symbiosis%20Protocol%20Terra/core/Symbiosis%20Protocol%20Audit%20-%20HashCloak.pdf)
