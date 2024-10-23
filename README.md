@@ -19,7 +19,7 @@
 
 ## TON Bridge 
 
-### [Zokyo](./Symbiosis%20Protocol%2Fton-bridge%2FSymbiosis%20TON%20Bridge%20-%20Zokyo.pdf)
+### [Zokyo](./Symbiosis%20Protocol/ton-bridge/Symbiosis%20TON%20Bridge%20v2%20-%20Zokyo.pdf)
 
 # Symbiosis Protocol Near
 
@@ -40,4 +40,4 @@
 
 # Symbiosis Relayers Network
 
-### [Decurity](./Symbiosis%20Relayers%20Network/Symbiosis%20Relayers%20Network%20-%20Decurity.pdf)
+### [Decurity](./Symbiosis%20Relayers%20Network/Symbiosis%20Relayers%20Network%202024%20-%20Decurity.pdf)
